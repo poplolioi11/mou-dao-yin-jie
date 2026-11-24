@@ -33,5 +33,13 @@
     "Repentance and good conduct",
     "早晚禱文",
     "Morning and evening prayer"
+  ],
+  "doi": "10.5281/zenodo.24487087",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24487086",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
