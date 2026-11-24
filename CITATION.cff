@@ -1,0 +1,37 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "謀道引階（DRS 428685382） / Mou dao yin jie: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.2.0",
+  "date-released": "2026-11-24",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914",
+      "website": "https://github.com/poplolioi11"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/mou-dao-yin-jie/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/mou-dao-yin-jie",
+  "abstract": "Mou dao yin jie is a one-volume late Qing Chinese Christian tract by Xiu Huayang (Francis Huberty James). The title leaf of this woodblock edition is dated 1889 (Guangxu 15) and bears the imprint of Tongwenzhai in Jinan Prefecture, Shandong. The dialogue opens by asking who gives people life and sustains them. It cites the Book of Odes and the Book of Documents and explains the relationship between Heaven in the Confucian classics and God (Shangdi). The questions then turn to how Heaven and human beings respond to one another, how conscience distinguishes good from evil, and how people can repent, do good, and pray. The closing Morning and Evening Prayer for Seekers of the Way thanks God in the first person for giving and sustaining life and for teaching, then asks for help in amending one’s conduct and preparing for the life to come. The dialogue and prayer offer material for studying how late Qing missionaries used the Confucian classics and their moral vocabulary to explain Christian belief and daily practice.\n\nThis dataset uses 26 fixed images from Harvard-Yenching Library DRS 428685382. The main text is transcribed from 15 pages. The AI-reviewed JSON, TXT and TEI transcription retains 31 unresolved comparison items. Full human collation is outstanding.",
+  "keywords": [
+    "晚清漢文基督教小冊",
+    "Late Qing Chinese Christian tracts",
+    "儒家經典",
+    "Confucian classics",
+    "上帝",
+    "God (Shangdi)",
+    "天人感通",
+    "Resonance between Heaven and humanity",
+    "良心",
+    "Conscience",
+    "問答體",
+    "Question-and-answer instruction",
+    "改過行善",
+    "Repentance and good conduct",
+    "早晚禱文",
+    "Morning and evening prayer"
+  ]
+}
